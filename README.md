@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/polars_logo_icon_248809.png" height="40" alt="polars logo"  />
   <img width="12" />  
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
