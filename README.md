@@ -1,16 +1,65 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋 Let me introduce myself</h1>
 
-<!--
-**bpalia/bpalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">👐 I'm Birutė, bringing a background in research to the tech world. With a keen eye for detail and a knack for problem-solving, I approach projects with an analytical mindset.<br>💻 Currently, I'm diving into the realms of data science and machine learning, with deep learning next on my agenda. I find joy in continuously learning and mastering new skills to make meaningful contributions.<br>🔍 I'm actively seeking work or internship opportunities in data-driven roles or projects. Feel free to explore my repositories and reach out for collaborations or discussions. Let's connect and explore the possibilities together!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Interesting and fun facts about me</h2>
+
+###
+
+<p align="left">🎓 I hold a PhD in Medical Technologies.<br>🐝 My nickname, Bitutė, translates to "small bee" in Lithuanian.<br>🐟 I took the plunge and learned to swim at the age of 25.<br>🍅 🍩 Vegetarian with a sweet tooth.</p>
+
+###
+
+<h2 align="left">I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/birute-paliakaite/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="bpaliakaite@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/1087045389028429904" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
